@@ -1,2 +1,2 @@
 # k-means
-unsupervised machine learning
+Unsupervised Machine Learning
